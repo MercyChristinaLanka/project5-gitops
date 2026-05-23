@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: proj5acr.azurecr.io/java-app:22
+        image: proj5acr.azurecr.io/java-app:24
         ports:
         - containerPort: 8080
